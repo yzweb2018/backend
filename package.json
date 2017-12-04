@@ -1,0 +1,31 @@
+{
+  "name": "web-api",
+  "version": "1.0.0",
+  "description": "An api for retreiving data from the 2017 - 2022 parliment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "node",
+    "api",
+    "election",
+    "jeremy",
+    "corbyn"
+  ],
+  "author": "DAILIN ZHANG",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "eslint": "^4.10.0",
+    "express": "^4.16.2",
+    "mysql": "^2.15.0",
+    "winston": "^2.4.0"
+  }
+}
